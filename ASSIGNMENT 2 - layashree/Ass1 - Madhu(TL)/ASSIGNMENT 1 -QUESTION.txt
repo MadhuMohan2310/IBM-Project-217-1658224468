@@ -1,8 +1,0 @@
-ASSIGNMENT 1:
-
-Monday 12th September morning (B1M3E-01)
-Trainer Name: - Shyam
-Batch No: - B1M3E-01
-Hi all, Students Here is Assignment 1 :- Develop a
-sample homepage with html, CSS which should include banner, image & description about yourself
-and contact form.
